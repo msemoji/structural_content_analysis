@@ -1,7 +1,7 @@
 # structural_content_analysis
-This Python 3 and Jupyter codebase enables the description and representation of text such as of a tweet based on its document structure and content structure. The document structure is the order of specific content types and the number of sequential elements per content type.
+This Python 3 and Jupyter codebase enables the description and representation of text, such as a tweet, as its document structure and content structure. The document structure is the order of specific content types and the number of sequential elements per content type.
   
-<p>With this code, structural content analysis can be done on a group of text or by user to examine and compare common document structure and content structures eventhough the individual tweet text itself varies.
+<p>Using the document structure, content structure, and content spans that are generated from this code, structural content analysis can be done to identify common structures and compare across users and groups of documents eventhough the text within a document varies.
 
 <p> For example a sample tweet could be: RT @someuser @anotheruser This is a cool idea @user1 to analyze a 📄 with a 💻😀! http:someurl.com
 <p> The following document structure will be generated from this code:<br>
